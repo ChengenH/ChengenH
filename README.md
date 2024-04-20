@@ -8,6 +8,7 @@ Design is the art of arranging code to work today, and be changeable forever
 - expect remote part-time job
 ### Skill
 <p align="left">
+    <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
@@ -24,9 +25,7 @@ Design is the art of arranging code to work today, and be changeable forever
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
-    <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
-    <a href="https://pulsar.apache.org/" target="_blank"> <img src="https://camo.githubusercontent.com/dc752029c391301ea464dc70f98233e4a04f71a6d1220590e1d7726deb6e6189/68747470733a2f2f70756c7361722e6170616368652e6f72672f696d672f70756c7361722e737667" alt="pulsar" width="40" height="40" /> </a>
 </p>
 
 ### Contributed
