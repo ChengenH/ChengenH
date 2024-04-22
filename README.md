@@ -1,12 +1,19 @@
+# 👋🏻 Hey,
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 ```md
 Design is the art of arranging code to work today, and be changeable forever
 ```
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChengenH&hide=stars&show_icons=true&count_private=true" />
 
-### About
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChengenH&theme=ambient_gradient&show_icons=true&count_private=true&hide=star" />
+
+### 🌱 About
 - work with java in server side
 - expect remote part-time job
-### Skill
+### :muscle: Skill
 <p align="left">
     <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
@@ -26,6 +33,7 @@ Design is the art of arranging code to work today, and be changeable forever
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea" alt="idea" width="40" height="40" /> </a>
 </p>
 
 ### Contributed
