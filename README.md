@@ -8,7 +8,7 @@
 Design is the art of arranging code to work today, and be changeable forever
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChengenH&theme=ambient_gradient&show_icons=true&count_private=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ChengenH&theme=ambient_gradient&show_icons=true&count_private=true" />
 
 ### 🌱 About
 - work with java in server side
