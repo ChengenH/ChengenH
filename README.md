@@ -60,4 +60,6 @@ Design is the art of arranging code to work today, and be changeable forever
     <a href="https://github.com/dolthub/dolt"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dolthub&repo=dolt&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dolt"></a>
     <a href="https://github.com/minio/minio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=minio&repo=minio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minio"></a>
     <a href="https://github.com/go-swagger/go-swagger"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=go-swagger&repo=go-swagger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="go-swagger"></a>
+    <a href="https://github.com/celo-org/celo-blockchain"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=celo-org&repo=celo-blockchain&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="celo-blockchain"></a>
+	
   </p>
