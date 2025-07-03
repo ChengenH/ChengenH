@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio! Here you'll find some of my projects and contrib
   <br>
 </div>
 
-### Contributed 
+### Contributed
 <p align="left">
     <a href="https://github.com/aptos-labs/aptos-core"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aptos-labs&repo=aptos-core&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="aptos-core"></a>
     <a href="https://github.com/base-org/node"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=base-org&repo=node&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="node"></a>
