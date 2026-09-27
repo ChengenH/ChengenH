@@ -7,6 +7,7 @@ Welcome to my GitHub portfolio! Here you'll find some of my projects and contrib
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ChengenH/ChengenH/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ChengenH/ChengenH/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ChengenH&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </div>
